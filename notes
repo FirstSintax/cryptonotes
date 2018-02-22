@@ -7,5 +7,5 @@ RSA_v (200) - Use mod properties to multiply all the exponents to one, and since
 
 Not OTP (100) - cribdrag with known easyctf{
 
-
+Return of RSA (400) - very recent exploit, the modulus given is vulnerable with the ROCA attack and 
 
