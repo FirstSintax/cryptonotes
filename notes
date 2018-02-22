@@ -1,1 +1,11 @@
-testing
+EasyCTF 2018
+
+Hidden Key (250) - Math oreinted RSA problem, where given modulus, exponent, and ciphertext and 2*d+phi. Use the definition:
+ed == 1 mod phi(n) to substitute phi in there. Get a modular equation for d, then bruteforce with bounds what d is.
+
+RSA_v (200) - Use mod properties to multiply all the exponents to one, and since the exponent is so large wiener's attack works.
+
+Not OTP (100) - cribdrag with known easyctf{
+
+
+
